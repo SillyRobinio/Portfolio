@@ -1,0 +1,36 @@
+
+h2{
+    color: #8a791d
+}
+body{
+    background-color: black;
+}
+
+h1{
+    color:#8a791d
+
+}
+
+.topnav {
+  background-color: #8a791d;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: black;
+  color: #8a791d;
+}
+
+.topnav a.active {
+  background-color: #53350d;
+  color: white;
+}
