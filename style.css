@@ -11,6 +11,9 @@ h1{
 
 }
 
+h3{
+  color: #8a791d;
+}
 .topnav {
   background-color: #8a791d;
   overflow: hidden;
@@ -34,3 +37,4 @@ h1{
   background-color: #53350d;
   color: white;
 }
+
